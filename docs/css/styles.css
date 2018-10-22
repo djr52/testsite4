@@ -1,0 +1,46 @@
+body{
+    font-family: Helvetica, "Helvetica Neue", SansSerif;
+}
+#wrapper{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid black 1px;
+
+}
+#menu ul{
+    margin: 0px;
+
+}
+#menu li{
+    display: inline;
+}
+#menu{
+    background-color: grey;
+    line-height: 25px;
+    height: 25px;
+
+}
+#content{
+    background-color: coral;
+    width: 541px;
+    font-size: 16px;
+    line-height: 27px;
+    float: left;
+    padding-left: 26px;
+    padding-right: 26px;
+
+
+}
+#sidebar{
+    background-color: bisque;
+    width: 367px;
+    float: left;
+
+
+}
+#footer{
+    background-color: chocolate;
+    clear: both;
+
+}
